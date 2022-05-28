@@ -1,7 +1,15 @@
-{
+[ 
 
-"id":1 ,
-"name" : "mumbai"
+    {
 
+   "state":"maharastra" ,
+   "name" : "mumbai"    
 
-}
+    } ,
+   
+   { 
+    "state":"u.p" ,
+    "name" : "delhi"    
+ 
+   }
+]
