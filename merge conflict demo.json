@@ -1,0 +1,40 @@
+[
+   
+      {   
+          "id" : 1 ,
+          "name" :"kiran" ,
+          "age" : 45
+
+
+        } ,
+      {
+         "id" : 2,
+        "name" :"neha" ,
+        "age" : 40
+
+     
+<<<<<<< HEAD
+      },
+      {
+        "id" : 3,
+        "name" :"shrabani" ,
+        "age" : 40
+=======
+      } ,
+      
+      {
+        "id" : 3,
+        "name" :"sonu" ,
+        "age" : 2
+
+      },
+      {
+        "id" : 4,
+        "name" :"muni" ,
+        "age" : 45
+         
+>>>>>>> branch-two
+
+      }
+
+]
