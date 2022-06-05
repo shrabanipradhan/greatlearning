@@ -13,27 +13,30 @@
         "age" : 40
 
      
-<<<<<<< HEAD
       },
       {
         "id" : 3,
         "name" :"shrabani" ,
         "age" : 40
-=======
       } ,
       
       {
-        "id" : 3,
+        "id" : 4,
         "name" :"sonu" ,
-        "age" : 2
+        "age" : 20
 
       },
       {
-        "id" : 4,
+        "id" : 5,
         "name" :"muni" ,
         "age" : 45
          
->>>>>>> branch-two
+
+      },
+      {
+        "id" : 6,
+        "name" :"jivan" ,
+        "age" : 50
 
       }
 

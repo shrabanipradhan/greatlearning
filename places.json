@@ -5,6 +5,7 @@
    "state":"maharastra" ,
    "name" : "mumbai"    
 
+<<<<<<< HEAD
     } ,
    
    { 
@@ -18,3 +19,14 @@
  
    }
 ]
+=======
+
+
+},
+{
+    "id":2 ,
+    "name" : "delhi"
+
+
+}
+>>>>>>> branch-one
