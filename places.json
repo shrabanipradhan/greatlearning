@@ -5,8 +5,7 @@
    "state":"maharastra" ,
    "name" : "mumbai"    
 
-<<<<<<< HEAD
-    } ,
+    },
    
    { 
     "state":"u.p" ,
@@ -17,16 +16,11 @@
     "state":"tamilnadu" ,
     "name" : "cennai"    
  
-   }
-]
-=======
+   },
 
+  {
+    "state":"karnataka" ,
+    "name" : "banglore"
 
-},
-{
-    "id":2 ,
-    "name" : "delhi"
-
-
-}
->>>>>>> branch-one
+  } 
+]  
