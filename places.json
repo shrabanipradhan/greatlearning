@@ -22,5 +22,10 @@
     "state":"odissa",
     "name" : "bhubaneswar"
 
-  }
-]
+  },
+
+   { "state":"karnataka" ,
+    "name" : "banglore"
+
+   } 
+]  
